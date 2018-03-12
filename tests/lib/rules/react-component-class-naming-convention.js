@@ -1,6 +1,6 @@
 /**
  * @fileoverview Check that proper naming convention is followed for React components
- * @author react-component-class-naming-convention
+ * @author Tarun Lalwani
  */
 "use strict";
 
